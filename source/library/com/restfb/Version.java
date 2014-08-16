@@ -24,7 +24,7 @@
 package com.restfb;
 
 public enum Version {
-    UNVERSIONED(null), VERSION_1_0("v1.0"), VERSION_2_0("v2.0");
+    UNVERSIONED(null), VERSION_1_0("v1.0"), VERSION_2_0("v2.0"), VERSION_2_1("v2.1");
     
     private final String urlElement; 
     
